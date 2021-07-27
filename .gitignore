@@ -1,0 +1,8 @@
+# Delete the object folder
+obj/*
+
+# Delete the binary folder
+bin/*
+
+# Delete the Visual Studio files (./.vs)
+.vs/*
